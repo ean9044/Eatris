@@ -7,7 +7,7 @@
 	},
     "include": [
         "src/**/*"
-    ],
+, "bin/main.js"    ],
     "exclude": [
         "node_modules",
         "**/*.spec.ts"
